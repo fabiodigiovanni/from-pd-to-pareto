@@ -1,0 +1,10 @@
+
+---
+
+## 📦 requirements.txt
+
+```text
+numpy
+pandas
+cvxpy
+matplotlib
