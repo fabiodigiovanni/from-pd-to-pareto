@@ -31,7 +31,5 @@ It shows how to build an efficient frontier in **Expected Loss vs Return** space
 from-pd-to-pareto/
 ├─ README.md
 ├─ requirements.txt
-├─ src/
-│  └─ pareto_optimization.py
-└─ notebooks/
+└─ notebook/
    └─ pareto_credit_portfolio.ipynb
